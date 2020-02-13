@@ -27,6 +27,8 @@
 - Optional default value for environment variable in configuration
 - Warn the user for an action process returning a non-zero exit code 
 - Support for process path relative to homedir ~
+- Allow to not verify certificates when connecting to a HTTPS endpoint using
+  self-signed certificate.
 
 ### Changed
 
